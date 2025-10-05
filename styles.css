@@ -1,13 +1,14 @@
 /* this is my css page, where my sets colors, fonts, layout, and improves readability and accessibility */
+/* This is the format for CSS comments */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
-    color: #333;
+    color: #330721;
 }
 
 header, footer {
-    background-color: #003366;
+    background-color: #4a0539;
     color: white;
     padding: 20px;
     text-align: center;
